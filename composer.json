@@ -1,0 +1,10 @@
+{
+    "name": "kelude/composer",
+    "homepage": "https://kelude.github.io/composer",
+    "config": {
+        "sort-packages": true
+    },
+    "repositories": [
+        
+    ]
+}
